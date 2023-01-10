@@ -2,3 +2,4 @@ file2
 nambah baris file2
 feature 2
 Feature A
+feature C
