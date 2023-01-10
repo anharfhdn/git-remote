@@ -1,2 +1,3 @@
 file3.txt
 seharusya tetap ada baris ke 2
+feature 3
