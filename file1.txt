@@ -1,2 +1,3 @@
 menambah file1.txt
 menambah baris file1.txt
+tambah feature 1
