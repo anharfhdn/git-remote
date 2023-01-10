@@ -1,0 +1,2 @@
+file3.txt
+seharusya tetap ada baris ke 2
